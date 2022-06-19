@@ -1,0 +1,14 @@
+{
+    "extends": "@react-native-community",
+    "rules": {
+        "quotes": [2, "double", {"avoidEscape":true}]
+    },
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+    
+}
+
